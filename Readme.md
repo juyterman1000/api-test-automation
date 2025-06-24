@@ -2,18 +2,6 @@
 
 This is a sample REST API test framework using **RestAssured**, **TestNG**, and **Maven** to validate a fictional financial service API.
 
-## 📦 Project Structure
-financial-api-test-framework/
-├── pom.xml # Maven config and dependencies
-├── src/
-│ ├── test/
-│ │ ├── java/
-│ │ │ └── com/adalakoti/api/tests/FinancialAPITest.java
-│ │ └── resources/
-│ │ ├── testng.xml # TestNG suite definition
-│ │ └── schemas/
-│ │ └── account_balance_schema.json
-└── README.md # Project overview and usage
 ##  Technologies Used
 
 - Java 11
